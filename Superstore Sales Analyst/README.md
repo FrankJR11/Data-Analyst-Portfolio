@@ -1,8 +1,3 @@
-# Superstore Sales Analysis
-
-## Brief Background
-The Superstore dataset is a retail transactions benchmark covering a US office supplies retailer. It contains orders, products, customers, discounts, profits, shipping, and regions. This analysis explores sales performance, profitability levers, and operational insights.
-
 # Superstore Data Analysis Project
 
 ## 📊 Project Overview
