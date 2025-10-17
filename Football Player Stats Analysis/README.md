@@ -21,19 +21,19 @@ A comprehensive analysis of professional football players' performance data to i
 - **Possession Metrics**: Dribbles, carries, touches, progressive carries
 
 ## 📋 Analysis Highlights
-1. Top Performers by Position
+### 1. Top Performers by Position
 Forwards: Tammy Abraham (Roma) - 0.5 goals per 90min
 Midfielders: Thiago Alcántara (Liverpool) - 89.6% pass completion
 Defenders: David Alaba (Real Madrid) - 91.7% pass completion
 Young Talent: Miguel Almirón (Newcastle) - creative midfield presence
 
-2. League Comparisons
+### 2. League Comparisons
 Premier League: Higher physical metrics, intense pressing
 La Liga: Technical focus, high passing accuracy
 Serie A: Tactical discipline, defensive organization
 Bundesliga: High-intensity, transition-focused play
 
-3. Key Insights
+### 3. Key Insights
 Defenders showing increasing offensive contributions (progressive passes, assists)
 Younger players (18-23) demonstrating significant playing time
 Positional versatility becoming more common (MFFW, DFMF roles)
@@ -42,10 +42,10 @@ Set-piece specialists identified through crossing and dead-ball metrics
 ## 🎯 Project Conclusion
 
 This analysis reveals modern football's evolving demands:
-- Versatility: Players increasingly contribute in multiple phases
-- Technical Proficiency: High passing accuracy across all positions
-- Data-Driven Evaluation: Comprehensive stats enable deeper player assessment
-- Youth Development: Significant minutes for younger players indicating development pathways
+- **Versatility**: Players increasingly contribute in multiple phases
+- **Technical Proficiency**: High passing accuracy across all positions
+- **Data-Driven Evaluation**: Comprehensive stats enable deeper player assessment
+- **Youth Development**: Significant minutes for younger players indicating development pathways
 
 The dataset provides a foundation for:
 - Player recruitment and scouting
