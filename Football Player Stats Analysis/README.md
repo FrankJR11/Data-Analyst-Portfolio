@@ -20,18 +20,6 @@ A comprehensive analysis of professional football players' performance data to i
 - **Defensive Metrics**: Tackles, interceptions, blocks, clearances
 - **Possession Metrics**: Dribbles, carries, touches, progressive carries
 
-### Position Distribution:
-```python
-# Sample position breakdown
-Positions = {
-    'DF': 45 players,
-    'MF': 35 players, 
-    'FW': 25 players,
-    'MFFW': 15 players,
-    'DFMF': 5 players,
-    'GK': 3 players
-}
-
 ## 📋 Analysis Highlights
 1. Top Performers by Position
 Forwards: Tammy Abraham (Roma) - 0.5 goals per 90min
